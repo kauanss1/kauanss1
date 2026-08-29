@@ -61,17 +61,10 @@ Atualmente estou estudando, programando todos os dias e buscando oportunidades p
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
 
-## 📊 Estatísticas do GitHub
+## 🔥 Minha Constância (Streak)
 
 <p align="center">
-  <a href="https://github.com/kauanss1">
-    <img src="https://github-readme-stats.vercel.app/api?username=kauanss1&show_icons=true&theme=tokyonight&locale=pt-br&v=1" height="170" alt="Estatísticas do Kauan" />
-  </a>
-  <a href="https://github.com/kauanss1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanss1&layout=compact&theme=tokyonight&locale=pt-br&v=1" height="170" alt="Linguagens mais usadas" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=kauanss1&theme=tokyonight&locale=pt_BR" alt="Estatísticas de commits do Kauan" />
 </p>
-
 ⭐ Sinta-se à vontade para entrar em contato comigo para colaborações, aprendermos juntos ou apenas bater um papo rápido sobre tecnologia!
