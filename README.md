@@ -56,21 +56,22 @@ Atualmente estou estudando, programando todos os dias e buscando oportunidades p
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Ferramentas e Nuvem
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauanss1&show_icons=true&theme=tokyonight&locale=pt-br" height="170" alt="Estatísticas do Kauan" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanss1&layout=compact&theme=tokyonight&locale=pt-br" height="170" alt="Linguagens mais usadas" />
+<p align="center">
+  <a href="https://github.com/kauanss1">
+    <img src="https://github-readme-stats.vercel.app/api?username=kauanss1&show_icons=true&theme=tokyonight&locale=pt-br&v=1" height="170" alt="Estatísticas do Kauan" />
+  </a>
+  <a href="https://github.com/kauanss1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanss1&layout=compact&theme=tokyonight&locale=pt-br&v=1" height="170" alt="Linguagens mais usadas" />
+  </a>
 </p>
-
----
-
-## 🚀 Filosofia
-
-> *"Todo especialista já foi um iniciante. O segredo é continuar aprendendo, programando e nunca desistir."*
-
----
 
 ⭐ Sinta-se à vontade para entrar em contato comigo para colaborações, aprendermos juntos ou apenas bater um papo rápido sobre tecnologia!
