@@ -1,10 +1,10 @@
 # Olá 👋, eu sou o Kauan Silva
 
-🚀 **Desenvolvedor de Software Júnior | Entusiasta de Python** 
+🚀 **Desenvolvedor de Software Júnior | Especialista em Python e Java** 
 🇧🇷 Brasil
 
 Sou um Desenvolvedor Júnior apaixonado por tecnologia e focado em construir bases sólidas em engenharia de software. 
-Minha linguagem de programação principal é **Python**, mas estou sempre disposto a aprender e explorar novas tecnologias para resolver problemas do mundo real.
+Minhas linguagens de programação principais são **Python e Java**, e estou sempre disposto a aprender e explorar novas tecnologias para resolver problemas do mundo real.
 
 Atualmente estou estudando, programando todos os dias e buscando oportunidades para crescer e contribuir com grandes projetos!
 
@@ -29,8 +29,8 @@ Atualmente estou estudando, programando todos os dias e buscando oportunidades p
 ## 🧠 O que eu faço
 
 - 🌱 Aprendendo e melhorando constantemente minhas habilidades de programação
-- 🐍 Desenvolvendo lógica de backend e scripts com Python
-- 💻 Explorando Programação Orientada a Objetos com Java e C#
+- 🐍 Desenvolvendo lógica de backend, APIs e scripts com **Python**
+- ☕ Construindo aplicações robustas e explorando Orientação a Objetos com **Java**
 - 🌐 Construindo e estilizando interfaces web com HTML, CSS e JavaScript
 - 🗄️ Modelando e consultando bancos de dados relacionais usando PostgreSQL e SQL
 - 🚀 Colaborando, resolvendo problemas de lógica e abraçando novos desafios
@@ -39,16 +39,16 @@ Atualmente estou estudando, programando todos os dias e buscando oportunidades p
 
 ## 🛠️ Minhas Tecnologias
 
-### Linguagem Principal
+### Linguagens Principais
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend e Outros
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Outras Linguagens
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -61,8 +61,8 @@ Atualmente estou estudando, programando todos os dias e buscando oportunidades p
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauanss1&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanss1&layout=compact&theme=tokyonight&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kauanss1&show_icons=true&theme=tokyonight&locale=pt-br" height="170" alt="Estatísticas do Kauan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanss1&layout=compact&theme=tokyonight&locale=pt-br" height="170" alt="Linguagens mais usadas" />
 </p>
 
 ---
