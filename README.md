@@ -12,13 +12,15 @@ Atualmente estou estudando, programando todos os dias e buscando oportunidades p
 
 ## 🌐 Onde me encontrar
 
-<!-- Lembre-se de substituir SEU_LINKEDIN_AQUI pelo seu LinkedIn real -->
 <p align="left">
   <a href="https://github.com/kauanss1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/kauan-santos-48306a268/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/kauan.ursino/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
