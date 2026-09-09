@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor de Software Júnior | Especialista em Python e Java** 
 🇧🇷 Brasil
 
-Sou um Desenvolvedor Júnior apaixonado por tecnologia e focado em construir bases sólidas em engenharia de software. 
+Sou um Desenvolvedor Júnior entusiasta de tecnologia e focado em construir bases sólidas em engenharia de software. 
 Minhas linguagens de programação principais são **Python e Java**, e estou sempre disposto a aprender e explorar novas tecnologias para resolver problemas do mundo real.
 
 Atualmente estou estudando, programando todos os dias e buscando oportunidades para crescer e contribuir com grandes projetos!
